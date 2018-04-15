@@ -1,4 +1,4 @@
-Inspired and based by The Coding Train. https://www.youtube.com/watch?v=MuK6Bnidl6I
+Inspired and based by The Coding Train.https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
 
 Personal implementation of The Coding Train Challanges.
 
